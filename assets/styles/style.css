@@ -270,7 +270,7 @@ nav {
     justify-content: center;
     align-items: center;
     gap: 220px;
-    background: url(/assets/images/testimonial1.png), lightgray 50% / cover no-repeat;
+    background-image: url(/assets/images/testimonial1.png);
 }
 
 .testimonial1-container {
@@ -415,7 +415,7 @@ nav {
     justify-content: center;
     align-items: center;
     gap: 220px;
-    background: url(/assets/images/testimonial2.png), lightgray 50% / cover no-repeat;
+    background-image: url(/assets/images/testimonial2.png);
 }
 
 .testimonial2-container {
