@@ -271,6 +271,8 @@ nav {
     align-items: center;
     gap: 220px;
     background-image: url(/assets/images/testimonial1.png);
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 
 .testimonial1-container {
@@ -416,6 +418,8 @@ nav {
     align-items: center;
     gap: 220px;
     background-image: url(/assets/images/testimonial2.png);
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 
 .testimonial2-container {
